@@ -1,0 +1,9 @@
+{
+	"name": "HEMA-ADF-DEV",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4725b852-5eb5-4779-b648-67f116a955a1",
+		"tenantId": "089c8c5a-a073-448b-bb26-6108555a3ba4"
+	}
+}
