@@ -1,5 +1,13 @@
 {
 	"name": "HEMA-ADF-DEV",
+	"properties": {
+		"globalParameters": {
+			"ADLS_Path_Prefix": {
+				"type": "string",
+				"value": "abfss://devcontainer@rkadlsgeb2dev.dfs.core.windows.net"
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
