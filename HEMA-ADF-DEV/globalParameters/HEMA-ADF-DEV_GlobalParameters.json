@@ -1,0 +1,6 @@
+{
+	"ADLS_Path_Prefix": {
+		"type": "string",
+		"value": "abfss://devcontainer@rkadlsgeb2dev.dfs.core.windows.net"
+	}
+}
